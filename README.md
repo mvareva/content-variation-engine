@@ -33,6 +33,10 @@ The prototype includes two real AI-generated variations (V-001, V-002) created t
 - **Inline styles** — no CSS-in-JS library, no Tailwind
 - **Base64 video frames** — real AI-generated content embedded as frame sequences
 
+## Web Prototype
+
+https://mvareva.github.io/content-variation-engine/
+
 ## Author
 
 **Maria Vareva** — [mariavareva.com](https://mariavareva.com) · [GitHub](https://github.com/mvareva)
